@@ -8,7 +8,7 @@ Command prompt Tetris clone, but it "wraps around".
 
 As a result, you can move each tetromino to the left or right as many times as you want without hitting an edge, instead looping around the other side.
 
-The left display follows the curent tetromino, keeping it centered on screen.  
+The left display follows the current tetromino, keeping it centered on screen.  
 The right display is fixed relative to the board.
 
 ## Controls
