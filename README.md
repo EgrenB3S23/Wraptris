@@ -1,5 +1,7 @@
 # Wraptris
 
+![screenshot](https://github.com/EgrenB3S23/Wraptris/blob/main/Screenshot.jpg)
+
 An old C project from 2014.
 
 Command prompt Tetris clone, but it "wraps around".
